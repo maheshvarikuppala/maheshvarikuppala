@@ -1,14 +1,14 @@
-<h1 align="center">Hi 👋, I'm name</name></h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Mahesh Varikuppala</name></h1>
+<h3 align="center">A passionate Software Engineer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshvarikuppala&label=Profile%20views&color=0e75b6&style=flat" alt="maheshvarikuppala" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshvarikuppala" alt="maheshvarikuppala" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/twitter-username" target="blank"><img src="https://img.shields.io/twitter/follow/twitter-username?logo=twitter&style=for-the-badge" alt="twitter-username" /></a> </p>
 
-- 🔭 I’m currently working on [WebDevelopment](project-link)
+- 🔭 I’m  working on [QA Automation Testing](project-link)
 
-- 🌱 I’m currently learning **javascript**
+- 🌱 I’m  learned **QA Automation, Selenium, HTML, CSS, Python, Java**
 
 - 👯 I’m looking to collaborate on **project-collaborate**
 
@@ -16,11 +16,9 @@
 
 - 👨‍💻 All of my projects are available at [porftfoilo-link](porftfoilo-link)
 
-- 📝 I regularly write articles on [blog-link](blog-link)
+- 💬 Ask me about **QA Automation,Java,HTML,CSS,Python**
 
-- 💬 Ask me about **react,vue**
-
-- 📫 How to reach me **xxxx@gmail.com**
+- 📫 How to reach me **maheshvarikuppala.555@gmail.com**
 
 - 📄 Know about my experiences [resume-link](resume-link)
 
