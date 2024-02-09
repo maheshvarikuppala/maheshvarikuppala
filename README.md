@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/twitter-username" target="blank"><img src="https://img.shields.io/twitter/follow/twitter-username?logo=twitter&style=for-the-badge" alt="twitter-username" /></a> </p>
 
-- 🔭 I’m  working on [QA Automation Testing](project-link)
+- 🔭 I’m  working  on Projects [QA Automation Testing](project-link)
 
 - 🌱 I’m  learned **QA Automation, Selenium, HTML, CSS, Python, Java**
 
