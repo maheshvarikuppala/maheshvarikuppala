@@ -48,14 +48,7 @@
 <a href="https://medium.com/medium-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium-username" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/youtube-channel-name" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube-channel-name" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/codechef-username" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="codechef-username" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/hackerrank-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank-username" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/codeforces-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces-username" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/leetcode-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode-username" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/hacker-earth-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="hacker-earth-username" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/gfg-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg-username" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/topcoder-username" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="topcoder-username" height="30" width="40" /></a>
-<a href="https://discord.gg/discord-invite" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord-invite" height="30" width="40" /></a>
-<a href="/rss-feed-url" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="rss-feed-url" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
